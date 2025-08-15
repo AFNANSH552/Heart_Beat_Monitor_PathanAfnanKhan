@@ -1,4 +1,4 @@
-# Heartbeat Monitoring System
+# Heartbeat Monitoring System _by Pathan Afnan Khan
 
 A Python implementation of a heartbeat monitoring system that tracks service heartbeats and triggers alerts when services miss consecutive expected heartbeats.
 
