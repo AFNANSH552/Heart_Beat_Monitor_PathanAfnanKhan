@@ -1,0 +1,30 @@
+[
+  {
+    "service": "email",
+    "alert_at": "2025-08-04T10:05:00Z"
+  },
+  {
+    "service": "email",
+    "alert_at": "2025-08-04T10:19:00Z"
+  },
+  {
+    "service": "sms",
+    "alert_at": "2025-08-04T10:11:00Z"
+  },
+  {
+    "service": "sms",
+    "alert_at": "2025-08-04T10:15:00Z"
+  },
+  {
+    "service": "push",
+    "alert_at": "2025-08-04T10:05:00Z"
+  },
+  {
+    "service": "push",
+    "alert_at": "2025-08-04T10:09:00Z"
+  },
+  {
+    "service": "push",
+    "alert_at": "2025-08-04T10:17:00Z"
+  }
+]

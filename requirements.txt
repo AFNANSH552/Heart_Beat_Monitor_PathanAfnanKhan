@@ -1,0 +1,16 @@
+# Heartbeat Monitoring System Dependencies
+# 
+# This project uses only Python standard library modules.
+# No external dependencies are required.
+#
+# Python 3.6+ is required for:
+# - Type hints
+# - f-string formatting  
+# - datetime.fromisoformat() method
+#
+# If you're using Python < 3.7, you may need to install:
+# python-dateutil>=2.8.0
+#
+# For development/testing (optional):
+# pytest>=6.0.0
+# coverage>=5.0.0
